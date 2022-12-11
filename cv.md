@@ -2,8 +2,8 @@
 
 ## Information about me
 
-*Phone*
-*mail addres:gorbachik.dima@mail.ru*
-*bank card*
-*City:Minsk*
-*Age: 19*
+-*Phone*
+-*mail addres:gorbachik.dima@mail.ru*
+-*bank card*
+-*City:Minsk*
+-*Age: 19*
